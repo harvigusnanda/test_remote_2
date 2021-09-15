@@ -8,6 +8,10 @@
 </head>
 <body>
     <h1>Hello World</h1>
+    <ul>
+        <li>pertama</li>
+        <li>kedua</li>
+    </ul>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sint praesentium laborum minima sed deleniti est quae vitae quasi! Officia et hic quis beatae corporis laudantium consequatur illo voluptatem sequi veritatis!</p>
 </body>
 </html>
